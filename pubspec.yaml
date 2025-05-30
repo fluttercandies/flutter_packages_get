@@ -1,5 +1,5 @@
 name: flutter_packages_get
-description: A sample command-line application.
+description: run flutter packages get in all project and clear PluginManager.
 version: 1.0.0
 repository: https://github.com/fluttercandies/flutter_packages_get
 executables:
