@@ -1,0 +1,20 @@
+name: flutter_packages_get
+description: A sample command-line application.
+version: 1.0.0
+repository: https://github.com/fluttercandies/flutter_packages_get
+executables:
+  fpg: main
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dependencies:
+  args: ^2.2.0
+  build_runner_core: ^7.1.0  
+  dart_style: ^2.0.3
+  io: ^1.0.3
+  meta: ^1.7.0
+  path: ^1.8.0
+  yaml: ^3.1.0
+
+# dart pub global activate --source path ./
